@@ -1,0 +1,3 @@
+
+    patient = Patient.new
+    patient = Patient.new
